@@ -5,9 +5,9 @@
 
 ## İçerik
 
-1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Drag_And_Drop_Single_Element/blob/main/README.md#kullan%C4%B1lan-teknolojiler)
-2. [Proje Tanımı](https://github.com/mehmetaydintr/Drag_And_Drop_Single_Element/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
-3. [Kod Tanımı](https://github.com/mehmetaydintr/Drag_And_Drop_Single_Element/blob/main/README.md#kod-tan%C4%B1m%C4%B1)
+1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Drag_And_Drop_Multiple_Element/blob/main/README.md#kullan%C4%B1lan-teknolojiler)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Drag_And_Drop_Multiple_Element/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
+3. [Kod Tanımı](https://github.com/mehmetaydintr/Drag_And_Drop_Multiple_Element/blob/main/README.md#kod-tan%C4%B1m%C4%B1)
 
 
 ## Kullanılan Teknolojiler
